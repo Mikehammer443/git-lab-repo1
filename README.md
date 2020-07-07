@@ -1,6 +1,6 @@
 # git lab
 
-. git lab for  IU
+. git lab for  EU
 
 # what is GIT?
 
